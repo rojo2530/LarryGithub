@@ -2,4 +2,8 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional. 
 
-**Jose Cantos**, Git fan.
+
+**Jose Cantos**, Git && Larry Plotter fan.
+
+
+
