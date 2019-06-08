@@ -2,4 +2,4 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional. 
 
-**Jose Cantos**
+**Jose Cantos**, Git fan.
